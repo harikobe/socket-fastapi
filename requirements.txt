@@ -1,0 +1,5 @@
+fastapi[all]
+asyncio
+asyncpg
+python-dotenv
+jinja2
