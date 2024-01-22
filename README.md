@@ -12,7 +12,7 @@ This Docker Compose configuration sets up a development environment with FastAPI
 - [Docker](https://docs.docker.com/get-docker/)
 - [Docker Compose](https://docs.docker.com/compose/install/)
 - [FastAPI](https://fastapi.tiangolo.com/)
-- [Python]
+- Python
 
 ### Getting Started
 
