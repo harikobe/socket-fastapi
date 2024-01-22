@@ -68,5 +68,4 @@ This Docker Compose configuration sets up a development environment with FastAPI
 An HTML page with the heading of "Data" will display the data from pgAdmin in JSON format.
 ```
 
-This Markdown file provides a structured and readable format for your instructions. Feel free to adjust it further based on your preferences. If you have any specific changes or additions, let me know!
 
